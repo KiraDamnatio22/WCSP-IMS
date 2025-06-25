@@ -1,5 +1,10 @@
 # WCSP-IMS
 Role-Based Access Inventory Management System of 3MI Airconditioning Systems Services a local branch/franchise of Wintercool Malolos Bulacan.
+Features: 
+  • View/Edit Inventory
+  • Add New Item
+  • More Feature A
+  • More Feature B
 
 MAIN INTERFACE
 ![Main Interface](https://github.com/user-attachments/assets/41568698-bc36-42fb-8ad4-5841466f4059)
